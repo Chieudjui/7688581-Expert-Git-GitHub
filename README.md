@@ -15,7 +15,7 @@ A définir
 Gitbase
 ```
 
-### Installation
+### Installation des environnements pour le développement
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
