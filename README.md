@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
-
+Gitbase
 ```
 
 ### Installation
@@ -22,6 +22,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 ```
 A définir
+Il faut choissit les outils à utiliser
 ```
 
 
